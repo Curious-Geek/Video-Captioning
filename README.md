@@ -39,4 +39,3 @@ The above video and text features are merged and passed into am LSTM network and
 For any doubts:
 Contact: 
 Chandra S Narain Kappera [ck2840@columbia.edu]
-Venkata Sriharsha Sammeta [vs2626@columbia.edu]
